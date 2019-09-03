@@ -1,0 +1,6 @@
+-------------Package Required to intsall to the build model---------------------------
+
+1. Numpy
+2. Pandas 
+3. Seaborn
+4. Scikit-learn
